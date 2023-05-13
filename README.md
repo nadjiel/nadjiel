@@ -1,16 +1,64 @@
-### Hi there 👋
+<!-- Introduction -->
+<h1 align="center">Hello there, I'm Nadjiel! 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Developer;Gamer;Arts+lover;Amateur+photographer;Languages+pursuer" alt="Facts about me" />
+</div>
 
-<!--
-**nadjiel/nadjiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<!-- Github stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadjiel&show_icons=true&theme=github_dark" alt="Nadjiel's Github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjiel&layout=compact&theme=github_dark" alt="Nadjiel's top languages stats" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<!-- About section -->
+## 💁‍♂️ About me
+
+My name is Daniel de Oliveira Sousa (he/ him), and I'm a 19 years old brazilian developer.
+
+I'm currently graduating in System Analysis and Development at [@IFPB](https://github.com/ifpb).
+
+At the moment I'm focusing on learning the [React Native library](https://reactnative.dev/) and the [Kotlin language](https://kotlinlang.org/).
+
+I enjoy programming, mainly games (and love playing them too 🤭). I also like to watch shows, read, listen to music and take pictures on my free time.
+
+If you wanna contact me, you can do it through my email, or my LinkedIn. Both are provided here, on my Github profile page.
+
+<br/>
+
+<!-- Chosen repositories -->
+## 🤩 Some projects
+<div align="center">
+  <a href="https://github.com/nadjiel/pong-plus" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=pong-plus&theme=github_dark" alt="Pong Plus repository" /></a>
+  <a href="https://github.com/nadjiel/chessey" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=chessey&theme=github_dark" alt="Chessey repository" /></a>
+</div>
+
+<br/>
+
+<!-- Languages and technologies -->
+## 📖 Languages and technologies
+<div align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="The HTML language" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="The CSS language" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="The JavaScript language" /></a>
+  <a href="https://nodejs.org/en" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" alt="The NodeJS environment" /></a>
+  <a href="https://jestjs.io/" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="The JestJS framework" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="The Git version control system" /></a>
+  <a href="https://www.w3schools.com/c/c_intro.php" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="The C language" /></a>
+  <a href="https://www.java.com/download/help/whatis_java.html" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="The Java language" /></a>
+  <a href="https://www.postgresql.org/" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" alt="The PostgreSQL database" /></a>
+  <a href="https://www.mongodb.com/" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" alt="The MongoDB database" /></a>
+  <a href="https://redis.io/" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain.svg" alt="The Redis database" /></a>
+  <a href="https://neo4j.com/" target="_blank"><img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-plain.svg" alt="The Neo4j database" /></a>
+</div>
+
+<!-- Used resources that people might want -->
+### Resources:
+If you wanna use some of this README's widgets, here are the links:
+
+- [README typing phrases](https://github.com/DenverCoder1/readme-typing-svg);
+- [Github stats cards](https://github.com/anuraghazra/github-readme-stats);
+- [Languages and technologies' icons](https://github.com/devicons/devicon);
