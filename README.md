@@ -1,15 +1,27 @@
 <!-- Introduction -->
 <h1 align="center">Hello there, I'm Nadjiel! 👋</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Developer;Gamer;Arts+lover;Amateur+photographer;Languages+pursuer" alt="Facts about me" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Developer;Gamer;Arts+lover;Amateur+photographer;Languages+pursuer">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=080808&center=true&vCenter=true&width=435&lines=Developer;Gamer;Arts+lover;Amateur+photographer;Languages+pursuer">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Developer;Gamer;Arts+lover;Amateur+photographer;Languages+pursuer" alt="Facts about me" />
+  </picture>
 </div>
 
 <br/>
 
 <!-- Github stats -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadjiel&show_icons=true&theme=github_dark" alt="Nadjiel's Github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjiel&layout=compact&theme=github_dark" alt="Nadjiel's top languages stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=nadjiel&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=nadjiel&show_icons=true&theme=github_light">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nadjiel&show_icons=true&theme=github_dark" alt="Nadjiel's Github stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjiel&layout=compact&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjiel&layout=compact&theme=github_light">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nadjiel&layout=compact&theme=github_dark" alt="Nadjiel's top languages stats" />
+  </picture>
 </div>
 
 <br/>
@@ -32,8 +44,20 @@ If you wanna contact me, you can do it through my email, or my LinkedIn. Both ar
 <!-- Chosen repositories -->
 ## 🤩 Some projects
 <div align="center">
-  <a href="https://github.com/nadjiel/pong-plus" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=pong-plus&theme=github_dark" alt="Pong Plus repository" /></a>
-  <a href="https://github.com/nadjiel/chessey" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=chessey&theme=github_dark" alt="Chessey repository" /></a>
+  <a href="https://github.com/nadjiel/pong-plus" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=pong-plus&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=pong-plus&theme=github_light">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=pong-plus&theme=github_dark" alt="Pong Plus repository" />
+    </picture>
+  </a>
+  <a href="https://github.com/nadjiel/chessey" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=chessey&theme=github_dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=chessey&theme=github_light">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=nadjiel&repo=chessey&theme=github_dark" alt="Chessey repository" />
+    </picture>
+  </a>
 </div>
 
 <br/>
