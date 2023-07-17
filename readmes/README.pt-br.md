@@ -2,9 +2,9 @@
 <h1 align="center">Olá, sou Nadjiel! 👋</h1>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Developer;Gamer;Arts+lover;Amateur+photographer;Languages+pursuer">
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=080808&center=true&vCenter=true&width=435&lines=Developer;Gamer;Arts+lover;Amateur+photographer;Languages+pursuer">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor;Gamer;Amante+de+artes;Fotógrafo+amador;Caçador+de+linguagens" alt="Fatos sobre mim" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor;Gamer;Amante+das+artes;Fotógrafo+amador;Caçador+de+linguagens">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=080808&center=true&vCenter=true&width=435&lines=Desenvolvedor;Gamer;Amante+das+artes;Fotógrafo+amador;Caçador+de+linguagens">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=500&size=22&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Desenvolvedor;Gamer;Amante+das+artes;Fotógrafo+amador;Caçador+de+linguagens" alt="Fatos sobre mim" />
   </picture>
 </div>
 
