@@ -8,6 +8,17 @@
   </picture>
 </div>
 
+<!-- README Languages -->
+<div align="center">
+  <a href="https://github.com/nadjiel/nadjiel/blob/main/README.md">🇺🇸</a>
+  &emsp;
+  <a href="https://github.com/nadjiel/nadjiel/blob/main/readmes/README.pt-br.md">🇧🇷</a>
+  &emsp;
+  <a href="https://github.com/nadjiel/nadjiel/blob/main/readmes/README.fr-fr.md">🇫🇷</a>
+  &emsp;
+  <a href="https://github.com/nadjiel/nadjiel/blob/main/readmes/README.es-es.md">🇪🇸</a>
+</div>
+
 <br/>
 
 <!-- Github stats -->
