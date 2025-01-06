@@ -40,15 +40,14 @@
 <!-- About section -->
 ## 💁‍♂️ About me
 
-My name is Daniel de Oliveira Sousa (he/ him), and I'm a 19 years old brazilian developer.
+My name is Daniel de Oliveira (he/ him), and I'm a 21 years old brazilian developer.
 
-I'm currently graduating in System Analysis and Development at [@IFPB](https://github.com/ifpb).
-
-At the moment I'm focusing on learning the [React Native library](https://reactnative.dev/) and the [Kotlin language](https://kotlinlang.org/).
+I am graduated in System Analysis and Development at [@IFPB](https://github.com/ifpb).
 
 I enjoy programming, mainly games (and love playing them too 🤭). I also like to watch shows, read, listen to music and take pictures on my free time.
 
-If you wanna contact me, you can do it through my email, or my LinkedIn. Both are provided here, on my Github profile page.
+If you wanna contact me, you can do it through my email, or my [LinkedIn](https://linkedin.com/in/nadjiel/). Both are provided here, on my Github profile page.
+Also, if you like game development content, you can check my game dev [Youtube channel](https://youtube.com/@nayelsousa), which is also on my profile.
 
 <br/>
 
