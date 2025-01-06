@@ -40,15 +40,14 @@
 <!-- About section -->
 ## 💁‍♂️ Sobre mim
 
-Meu nome é Daniel de Oliveira Sousa (ele/ dele), e sou um desenvolvedor brasileiro de 19 anos.
+Meu nome é Daniel de Oliveira (ele/ dele), e sou um desenvolvedor brasileiro de 21 anos.
 
-Atualmente estou graduando Análise e Desenvolvimento de Sistemas no [@IFPB](https://github.com/ifpb).
-
-No momento estou focando em aprender a [biblioteca React Native](https://reactnative.dev/) e a [linguagem Kotlin](https://kotlinlang.org/).
+Sou graduado em Análise e Desenvolvimento de Sistemas no [@IFPB](https://github.com/ifpb).
 
 Eu gosto de programar, jogos principalmente (e amo jogá-los também 🤭). Além disso gosto de assistir programas de TV, ler, escutar música e tirar fotos no meu tempo livre.
 
-Se quiser me contatar, você pode fazê-lo através do meu e-mail, ou do meu LinkedIn. Ambos estão na minha página de perfil aqui do Github.
+Se quiser me contatar, você pode fazê-lo através do meu e-mail, ou do meu [LinkedIn](https://linkedin.com/in/nadjiel). Ambos estão na minha página de perfil aqui do Github.
+Além disso, se você gosta de conteúdo de desenvolvimento de jogos, você pode checar meu [canal do Youtube](https://youtube.com/@nayelsousa) de game dev, o qual também está no meu perfil.
 
 <br/>
 
